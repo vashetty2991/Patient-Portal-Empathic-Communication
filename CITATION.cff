@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite the associated manuscript."
+title: "Empathic Communication Classification"
+authors:
+  - family-names: "Shetty"
+    given-names: "Vishal"
+repository-code: "https://github.com/vashetty2991/Empathic_Communication_Classification"
+license: MIT
+type: software
